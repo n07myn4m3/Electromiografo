@@ -1,0 +1,162 @@
+.model NPN1 NPN(Is=14.34f Xti=3 Eg=1.11 Vaf=74.03 Bf=255.9 Ne=1.307
++ Ise=14.34f Ikf=.2847 Xtb=1.5 Br=6.092 Nc=2 Isc=0 Ikr=0 Rc=1
++ Cjc=7.306p Mjc=.3416 Vjc=.75 Fc=.5 Cje=22.01p Mje=.377 Vje=.75
++ Tr=46.91n Tf=411.1p Itf=.6 Vtf=1.7 Xtf=3 Rb=10)
+
+.model NPN2 NPN(Is=14.34f Xti=3 Eg=1.11 Vaf=74.03 Bf=255.9 Ne=1.307
++ Ise=14.34f Ikf=.2847 Xtb=1.5 Br=6.092 Nc=2 Isc=0 Ikr=0 Rc=1
++ Cjc=7.306p Mjc=.3416 Vjc=.75 Fc=.5 Cje=22.01p Mje=.377 Vje=.75
++ Tr=46.91n Tf=411.1p Itf=.6 Vtf=1.7 Xtf=3 Rb=10)
+
+.model NPN10 NPN(Is=14.34f Xti=3 Eg=1.11 Vaf=74.03 Bf=255.9 Ne=1.307
++ Ise=14.34f Ikf=.2847 Xtb=1.5 Br=6.092 Nc=2 Isc=0 Ikr=0 Rc=1
++ Cjc=7.306p Mjc=.3416 Vjc=.75 Fc=.5 Cje=22.01p Mje=.377 Vje=.75
++ Tr=46.91n Tf=411.1p Itf=.6 Vtf=1.7 Xtf=3 Rb=10)
+
+.model PNP1 PNP(Is=650.6E-18 Xti=3 Eg=1.11 Vaf=115.7 Bf=231.7 Ne=1.829
++ Ise=54.81f Ikf=1.079 Xtb=1.5 Br=3.563 Nc=2 Isc=0 Ikr=0 Rc=.715
++ Cjc=14.76p Mjc=.5383 Vjc=.75 Fc=.5 Cje=19.82p Mje=.3357 Vje=.75
++ Tr=111.3n Tf=603.7p Itf=.65 Vtf=5 Xtf=1.7 Rb=10)
+
+.MODEL BCV61 NPN( 
++ IS = 1.822E-14 
++ NF = 0.9932 
++ ISE = 2.894E-16 
++ NE = 1.4 
++ BF = 324.4 
++ IKF = 0.109 
++ VAF = 82 
++ NR = 0.9931 
++ ISC = 9.982E-12 
++ NC = 1.763 
++ BR = 8.29 
++ IKR = 0.09 
++ VAR = 17.9 
++ RB = 10 
++ IRB = 5E-06 
++ RBM = 5 
++ RE = 0.649 
++ RC = 0.7014 
++ XTB = 0 
++ EG = 1.11 
++ XTI = 3 
++ CJE = 1.244E-11 
++ VJE = 0.7579 
++ MJE = 0.3656 
++ TF = 4.908E-10 
++ XTF = 9.51 
++ VTF = 2.927 
++ ITF = 0.3131 
++ PTF = 0 
++ CJC = 3.347E-12 
++ VJC = 0.5463 
++ MJC = 0.391 
++ XCJC = 0.6193 
++ TR = 9E-08 
++ CJS = 0 
++ VJS = 0.75 
++ MJS = 0.333 
++ FC = 0.979
+)
+
+.MODEL BCV62 PNP( 
++ IS = 1.619E-014 
++ NF = 0.9835 
++ ISE = 7.218E-015 
++ NE = 1.521 
++ BF = 266.9 
++ IKF = 0.08202 
++ VAF = 12.88 
++ NR = 0.977 
++ ISC = 3.672E-015 
++ NC = 1.122 
++ BR = 10.73 
++ IKR = 0.03072 
++ VAR = 24.01 
++ RB = 39.4 
++ IRB = 0.0001272 
++ RBM = 1.321 
++ RE = 0.3 
++ RC = 0.5566 
++ XTB = 0 
++ EG = 1.11 
++ XTI = 3 
++ CJE = 1.14E-011 
++ VJE = 0.7923 
++ MJE = 0.4031 
++ TF = 9E-010 
++ XTF = 20 
++ VTF = 5 
++ ITF = 0.52 
++ PTF = 0 
++ CJC = 5.839E-012 
++ VJC = 1 
++ MJC = 0.5758 
++ XCJC = 1 
++ TR = 1E-009 
++ CJS = 0 
++ VJS = 0.75 
++ MJS = 0.333 
++ FC = 0.79
+)
+
+.MODEL QS5W2 NPN(
++ IS=420.00E-15
++ BF=307.28
++ VAF=140
++ IKF=5
++ ISE=420.00E-15
++ NE=1.5998
++ BR=128.39
++ VAR=30
++ IKR=4.2658
++ ISC=420.91E-15
++ NC=1.2171
++ NK=.7604
++ RE=20.000E-3
++ RB=1.7158
++ RC=89.720E-3
++ CJE=283.62E-12
++ VJE=.7243
++ MJE=.35199
++ CJC=44.087E-12
++ VJC=.54497
++ MJC=.40197
++ TF=450.93E-12
++ XTF=66.611
++ VTF=32.273
++ ITF=29.362
++ TR=11.200E-9
++ XTB=1.5000
+)
+
+.MODEL QS5W1 NPN(
++ IS=500.00E-15
++ BF=323.34
++ VAF=60.598
++ IKF=8.4857
++ ISE=1.7281E-12
++ NE=1.9881
++ BR=104.57
++ VAR=37.700
++ IKR=2.4278
++ ISC=38.856E-12
++ NC=2.0752
++ NK=.62549
++ RE=30.000E-3
++ RB=1.2284
++ RC=55.373E-3
++ CJE=385.41E-12
++ VJE=.72207
++ MJE=.34976
++ CJC=55.800E-12
++ VJC=.54042
++ MJC=.4188
++ TF=357.71E-12
++ XTF=.97511
++ VTF=8.6504
++ ITF=.17776
++ TR=6.1096E-9
++ XTB=1.5000
++ TRE1=0.005
+)
