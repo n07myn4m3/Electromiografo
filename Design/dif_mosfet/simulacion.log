@@ -1,6 +1,5 @@
-Circuit: * D:\Documents\Github\Electromiografo\Design\dif_mosfet\simulacion.asc
+Circuit: * E:\Documents\Github\Electromiografo\Design\dif_mosfet\simulacion.asc
 
-WARNING: Less than two connections to node VIN2.  This node is used by V4.
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
 Starting Gmin stepping
 Gmin = 10
@@ -22,21 +21,21 @@ Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
 
-Date: Sun May 07 21:15:40 2017
-Total elapsed time: 0.120 seconds.
+Date: Mon May 08 07:47:45 2017
+Total elapsed time: 0.130 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 2512
+totiter = 2518
 traniter = 2082
 tranpoints = 1042
 accept = 1042
 rejected = 0
-matrix size = 29
+matrix size = 28
 fillins = 8
 solver = Normal
-Matrix Compiler1: 2.75 KB object code size  1.0/0.4/[0.3]
-Matrix Compiler2: off  [0.4]/0.5/0.5
+Matrix Compiler1: 2,71 KB object code size  1.1/0.5/[0.2]
+Matrix Compiler2: 2,60 KB object code size  0.6/0.7/[0.5]
 
 
