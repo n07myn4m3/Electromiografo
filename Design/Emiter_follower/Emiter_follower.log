@@ -1,4 +1,4 @@
-Circuit: * D:\Documents\Github\Electromiografo\Design\Emiter_follower\Emiter_follower.asc
+Circuit: * E:\Documents\Github\Electromiografo\Design\Emiter_follower\Emiter_follower.asc
 
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
 Starting Gmin stepping
@@ -21,21 +21,21 @@ Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
 
-Date: Sun May 14 19:06:34 2017
-Total elapsed time: 0.140 seconds.
+Date: Mon May 15 11:48:32 2017
+Total elapsed time: 0.447 seconds.
 
 tnom = 27
 temp = 27
-method = modified trap
-totiter = 2530
-traniter = 2083
-tranpoints = 1042
-accept = 1042
+method = trap
+totiter = 447
+traniter = 0
+tranpoints = 0
+accept = 0
 rejected = 0
 matrix size = 40
 fillins = 10
 solver = Normal
-Matrix Compiler1: 3.96 KB object code size  1.5/0.6/[0.3]
-Matrix Compiler2: 3.90 KB object code size  0.6/1.0/[0.7]
+Matrix Compiler1:     222 opcodes
+Matrix Compiler2: off  [1.8]/2.3/2.8
 
 
