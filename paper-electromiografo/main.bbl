@@ -1,0 +1,114 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\sortlist[entry]{nty/global/}
+  \entry{iskin2015}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=i}{%
+         family={{iskin}},
+         familyi={i\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{i1}
+    \strng{fullhash}{i1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{note}{[Online; recuperado Marzo 5, 2007]}
+    \field{title}{skindiagram1}
+    \verb{url}
+    \verb http://www.iskinnewyork.com/wp-content/uploads/2015/07/skindiagram1.j
+    \verb pg
+    \endverb
+    \field{year}{2015}
+  \endentry
+
+  \entry{konrad2005abc}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KP}{%
+         family={Konrad},
+         familyi={K\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Noraxon, Scottsdale}%
+    }
+    \strng{namehash}{KP1}
+    \strng{fullhash}{KP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{The abc of emg}
+    \field{volume}{1}
+    \field{journaltitle}{A practical introduction to kinesiological
+  electromyography}
+    \field{year}{2005}
+  \endentry
+
+  \entry{chau2016paediatric}{book}{}
+    \name{author}{1}{}{%
+      {{hash=TCJF}{%
+         family={Tom\bibnamedelima Chau},
+         familyi={T\bibinitperiod\bibinitdelim C\bibinitperiod},
+         given={Jillian\bibnamedelima Fairley},
+         giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {CRC Press}%
+    }
+    \strng{namehash}{TCJF1}
+    \strng{fullhash}{TCJF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{edition}{1}
+    \field{isbn}{978-1-4398-0842-9,978-1-4398-0851-1,1439808422}
+    \field{series}{Rehabilitation Science in Practice Series}
+    \field{title}{Paediatric Rehabilitation Engineering: From Disability to
+  Possibility}
+    \field{year}{2010}
+  \endentry
+
+  \entry{webster2009medical}{book}{}
+    \name{author}{1}{}{%
+      {{hash=WJG}{%
+         family={Webster},
+         familyi={W\bibinitperiod},
+         given={John\bibnamedelima G.},
+         giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WJG1}
+    \strng{fullhash}{WJG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{edition}{4}
+    \field{isbn}{9780471676003,0471676004}
+    \field{title}{Medical Instrumentation Application and Design, 4th Edition}
+    \field{year}{2009}
+  \endentry
+\endsortlist
+\endinput

@@ -1,0 +1,9 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\select@language {spanish}
+\contentsline {chapter}{\nonumberline Motivaci\IeC {\'o}n}{\es@scroman {iv}}{chapter*.4}
+\contentsline {section}{\numberline {1}Programa de microswitches}{\es@scroman {iv}}{section*.5}
+\contentsline {chapter}{\nonumberline Descripci\IeC {\'o}n de los biopotenciales}{\es@scroman {vii}}{chapter*.8}
+\contentsline {section}{\numberline {1}Caracter\IeC {\'\i }sticas de la se\IeC {\~n}al}{\es@scroman {vii}}{section*.9}
+\contentsline {section}{\numberline {2}Medici\IeC {\'o}n de la impedancia}{\es@scroman {viii}}{figure.caption.10}
+\contentsline {section}{\numberline {3}Magnitud de la se\IeC {\~n}al de salida y factor de amplificaci\IeC {\'o}n requerido}{\es@scroman {x}}{table.caption.14}
+\contentsline {subsection}{\numberline {3.1}Algunas Observaciones al Respecto}{\es@scroman {xi}}{figure.caption.16}

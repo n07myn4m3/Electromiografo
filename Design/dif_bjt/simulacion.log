@@ -3,6 +3,8 @@ Circuit: * D:\Documents\Github\Electromiografo\Design\dif_bjt\simulacion.asc
 WARNING: Node SALIDA2 is floating.
 WARNING: Node SALIDA1 is floating.
 
+WARNING: Less than two connections to node VIN1.  This node is used by V3.
+WARNING: Less than two connections to node VIN2.  This node is used by V4.
 WARNING: Less than two connections to node SALIDA2.  This node is used by C1.
 WARNING: Less than two connections to node SALIDA1.  This node is used by C2.
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
@@ -26,21 +28,21 @@ Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
 
-Date: Thu Jun 08 02:42:16 2017
-Total elapsed time: 0.083 seconds.
+Date: Thu Jul 06 19:30:20 2017
+Total elapsed time: 0.177 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 2498
+totiter = 2501
 traniter = 2082
 tranpoints = 1042
 accept = 1042
 rejected = 0
 matrix size = 26
-fillins = 2
+fillins = 0
 solver = Normal
-Matrix Compiler1: 1.65 KB object code size  0.7/0.4/[0.2]
-Matrix Compiler2: off  [0.3]/0.4/0.8
+Matrix Compiler1: 1.50 KB object code size  0.6/0.3/[0.2]
+Matrix Compiler2: 1.96 KB object code size  0.5/0.5/[0.3]
 
 
