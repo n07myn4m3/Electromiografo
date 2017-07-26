@@ -4,6 +4,8 @@ The top-level auxiliary file: main.aux
 The style file: biblatex.bst
 A level-1 auxiliary file: Contexto/Contexto.aux
 A level-1 auxiliary file: Capitulo_1/Capitulo_1.aux
+A level-1 auxiliary file: Caracterizacion/Caracterizacion.aux
+A level-1 auxiliary file: Capitulo_2/Capitulo_2.aux
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
@@ -23,44 +25,44 @@ Database file #2: electro.bib
 Biblatex version: 3.3
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 5 entries,
+You've used 7 entries,
             6256 wiz_defined-function locations,
-            1201 strings with 9159 characters,
-and the built_in function-call counts, 16957 in all, are:
-= -- 973
-> -- 393
-< -- 127
-+ -- 270
-- -- 122
-* -- 1105
-:= -- 1497
+            1215 strings with 9652 characters,
+and the built_in function-call counts, 27123 in all, are:
+= -- 1643
+> -- 610
+< -- 210
++ -- 466
+- -- 193
+* -- 1825
+:= -- 2362
 add.period$ -- 0
-call.type$ -- 5
-change.case$ -- 66
+call.type$ -- 7
+change.case$ -- 114
 chr.to.int$ -- 30
-cite$ -- 8
-duplicate$ -- 1704
-empty$ -- 1756
-format.name$ -- 189
-if$ -- 3713
+cite$ -- 12
+duplicate$ -- 2754
+empty$ -- 2746
+format.name$ -- 305
+if$ -- 5907
 int.to.chr$ -- 0
-int.to.str$ -- 10
+int.to.str$ -- 16
 missing$ -- 0
-newline$ -- 112
-num.names$ -- 197
-pop$ -- 1332
+newline$ -- 169
+num.names$ -- 313
+pop$ -- 1992
 preamble$ -- 1
-purify$ -- 74
+purify$ -- 129
 quote$ -- 0
-skip$ -- 745
+skip$ -- 1148
 stack$ -- 0
-substring$ -- 1447
-swap$ -- 515
-text.length$ -- 113
-text.prefix$ -- 4
+substring$ -- 2517
+swap$ -- 812
+text.length$ -- 169
+text.prefix$ -- 6
 top$ -- 1
-type$ -- 158
+type$ -- 226
 warning$ -- 0
-while$ -- 182
+while$ -- 277
 width$ -- 0
-write$ -- 108
+write$ -- 163

@@ -1,27 +1,27 @@
-\chapter{Diseño del electromiografo} 
+\chapter{Diseño del electromiógrafo} 
 %//////////////////////////////////////////////////////////////////////////
 %//////////////////////////////////////////////////////////////////////////
 \section{Amplificador de instrumentación}
 %//////////////////////////////////////////////////////////////////////////
 %//////////////////////////////////////////////////////////////////////////
-Este diseño se propuso con la finalidad de solucionar los problemas de un amplificador diferencial básico donde la impedancia de las entradas inversora y no inversora eran relativamente bajas y desiguales lo cual degradaba el valor de el CMRR \cite{design guide}.\\
+Este diseño se propuso con la finalidad de solucionar los problemas de un amplificador diferencial básico donde la impedancia de las entradas inversora y no inversora eran relativamente bajas y desiguales lo cual degradaba el valor de el CMRR \cite{kitchin2006designer}.\\
 
-Una manera significativa de mejorar el rendimiento fue por medio del uso de buffers de amplificación para incrementar la impedancia de entrada, los cuales son implementados por medio de amplificadores (A1 y A2) no inversores que pasaran a formar la etapa de entrada del In-Amp \cite{design guide}.\\
+Una manera significativa de mejorar el rendimiento fue por medio del uso de buffers de amplificación para incrementar la impedancia de entrada, los cuales son implementados por medio de amplificadores (A1 y A2) no inversores que pasaran a formar la etapa de entrada del In-Amp \cite{kitchin2006designer}.\\
 
-El amplificador diferencial (A3) pasara a formar la etapa de salida y recibirá las entradas de los amplificadores inversores. Este diseño permite obtener impedancias de entrada emparejadas de manera que la impedancia de las fuentes de entrada tendra un minimo efecto en el CMRR del circuito total \cite{design guide}.
+El amplificador diferencial (A3) pasara a formar la etapa de salida y recibirá las entradas de los amplificadores inversores. Este diseño permite obtener impedancias de entrada emparejadas de manera que la impedancia de las fuentes de entrada tendrá un mínimo efecto en el CMRR del circuito total \cite{kitchin2006designer}.
 
 
 
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.8\textwidth]{Capitulo_2/Amplificador_instrumentacion.png}
-  \caption{Diseño clásico de un amplificador de instrumentación con 3 amplificadores diferenciales \cite{design guide}.}
+  \caption{Diseño clásico de un amplificador de instrumentación con 3 amplificadores diferenciales \cite{kitchin2006designer}.}
   \label{amp instrumentacion clasico} 
 \end{figure}
 
 
-La idea de un amplificador diferencial en un inicio podría parecer una contradicción en el sentido de que si inicialmente se disponen de dos electrodos (G1 y G2) conectados en el mismo musculo se supone ambos reciben la misma señal de entrada, así que a la salida la sumatoria de las mismas debería dar como resultado cero. \cite{EMG_instrumentation}. \\
-Sin embargo es importante recordar que la acción del potencial eléctrico se debe propagar a lo largo de las fibras musculares, por lo tanto si se dispone de dos electrodos en configuración bipolar sobre el musculo la señal percibida por el G1 estará retrasada o adelantada con respecto a G2, este factor de atraso depende de la velocidad de conducción de la fibra y la distancia entre los electrodos (interelectrode distance IED), por lo que se concluye que ambos electrodos no detectan la misma señal biológica al mismo tiempo, todas las demás señales que se presenten entre los electrodos de manera simultanea serán consideradas ruido y por ende serán suprimidas por el amplificador diferencial al ser de modo común \cite{EMG_instrumentation}.
+La idea de un amplificador diferencial en un inicio podría parecer una contradicción en el sentido de que si inicialmente se disponen de dos electrodos (G1 y G2) conectados en el mismo musculo se supone ambos reciben la misma señal de entrada, así que a la salida la sumatoria de las mismas debería dar como resultado cero. \cite{kamen2010essentialselectromyography}. \\
+Sin embargo es importante recordar que la acción del potencial eléctrico se debe propagar a lo largo de las fibras musculares, por lo tanto si se dispone de dos electrodos en configuración bipolar sobre el musculo la señal percibida por el G1 estará retrasada o adelantada con respecto a G2, este factor de atraso depende de la velocidad de conducción de la fibra y la distancia entre los electrodos (interelectrode distance IED), por lo que se concluye que ambos electrodos no detectan la misma señal biológica al mismo tiempo, todas las demás señales que se presenten entre los electrodos de manera simultanea serán consideradas ruido y por ende serán suprimidas por el amplificador diferencial al ser de modo común \cite{kamen2010essentialselectromyography}.
 
 \begin{figure}[H]
   \centering

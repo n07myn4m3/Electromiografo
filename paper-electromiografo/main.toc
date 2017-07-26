@@ -1,9 +1,22 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \select@language {spanish}
-\contentsline {chapter}{\nonumberline Motivaci\IeC {\'o}n}{\es@scroman {iv}}{chapter*.4}
-\contentsline {section}{\numberline {1}Programa de microswitches}{\es@scroman {iv}}{section*.5}
-\contentsline {chapter}{\nonumberline Descripci\IeC {\'o}n de los biopotenciales}{\es@scroman {vii}}{chapter*.8}
-\contentsline {section}{\numberline {1}Caracter\IeC {\'\i }sticas de la se\IeC {\~n}al}{\es@scroman {vii}}{section*.9}
-\contentsline {section}{\numberline {2}Medici\IeC {\'o}n de la impedancia}{\es@scroman {viii}}{figure.caption.10}
-\contentsline {section}{\numberline {3}Magnitud de la se\IeC {\~n}al de salida y factor de amplificaci\IeC {\'o}n requerido}{\es@scroman {x}}{table.caption.14}
-\contentsline {subsection}{\numberline {3.1}Algunas Observaciones al Respecto}{\es@scroman {xi}}{figure.caption.16}
+\contentsline {chapter}{\numberline {1}Motivaci\IeC {\'o}n}{6}{chapter*.3}
+\contentsline {section}{\numberline {1.1}Programa de microswitches}{6}{section*.4}
+\contentsline {chapter}{\numberline {2}Descripci\IeC {\'o}n de los biopotenciales}{9}{figure.caption.6}
+\contentsline {section}{\numberline {2.1}Caracter\IeC {\'\i }sticas de la se\IeC {\~n}al}{9}{section*.7}
+\contentsline {section}{\numberline {2.2}Medici\IeC {\'o}n de la impedancia}{10}{figure.caption.8}
+\contentsline {section}{\numberline {2.3}Magnitud de la se\IeC {\~n}al de salida y factor de amplificaci\IeC {\'o}n requerido}{12}{table.caption.12}
+\contentsline {subsection}{\numberline {2.3.1}Algunas Observaciones al Respecto}{13}{figure.caption.14}
+\contentsline {chapter}{\numberline {3}Caracterizaci\IeC {\'o}n de los componentes}{15}{figure.caption.14}
+\contentsline {section}{\numberline {3.1}QS5K2}{15}{section*.15}
+\contentsline {section}{\numberline {3.2}BCV61}{16}{table.caption.18}
+\contentsline {subsection}{\numberline {3.2.1}Espejo amplificador diferencial BJT con carga resistiva}{17}{section*.19}
+\contentsline {subsection}{\numberline {3.2.2}Espejo amplificador diferencial MOSFET con carga resistiva}{18}{figure.caption.21}
+\contentsline {subsection}{\numberline {3.2.3}Espejo seguidor por emisor}{20}{figure.caption.23}
+\contentsline {chapter}{\numberline {4}Dise\IeC {\~n}o del electromi\IeC {\'o}grafo}{22}{figure.caption.25}
+\contentsline {section}{\numberline {4.1}Amplificador de instrumentaci\IeC {\'o}n}{22}{section*.26}
+\contentsline {subsubsection}{\nonumberline Amplificador diferencial MOSFET}{23}{section*.29}
+\contentsline {subsection}{\numberline {4.1.1}Seguidor por emisor}{27}{figure.caption.34}
+\contentsline {subsection}{\numberline {4.1.2}Amplificador diferencial BJT}{28}{figure.caption.34}
+\contentsline {section}{\numberline {4.2}Filtro Pasabanda}{29}{figure.caption.36}
+\contentsline {section}{\numberline {4.3}Rectificador de Onda Completa de Precisi\IeC {\'o}n}{31}{figure.caption.38}

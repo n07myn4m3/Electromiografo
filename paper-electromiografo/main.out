@@ -1,7 +1,19 @@
-\BOOKMARK [0][-]{chapter*.4}{Motivaci\363n}{}% 1
-\BOOKMARK [1][-]{section*.5}{Programa de microswitches}{chapter*.4}% 2
-\BOOKMARK [0][-]{chapter*.8}{Descripci\363n de los biopotenciales}{}% 3
-\BOOKMARK [1][-]{section*.9}{Caracter\355sticas de la se\361al}{chapter*.8}% 4
-\BOOKMARK [1][-]{figure.caption.10}{Medici\363n de la impedancia}{chapter*.8}% 5
-\BOOKMARK [1][-]{table.caption.14}{Magnitud de la se\361al de salida y factor de amplificaci\363n requerido}{chapter*.8}% 6
-\BOOKMARK [2][-]{figure.caption.16}{Algunas Observaciones al Respecto}{table.caption.14}% 7
+\BOOKMARK [0][-]{chapter*.3}{Motivaci\363n}{}% 1
+\BOOKMARK [1][-]{section*.4}{Programa de microswitches}{chapter*.3}% 2
+\BOOKMARK [0][-]{figure.caption.6}{Descripci\363n de los biopotenciales}{}% 3
+\BOOKMARK [1][-]{section*.7}{Caracter\355sticas de la se\361al}{figure.caption.6}% 4
+\BOOKMARK [1][-]{figure.caption.8}{Medici\363n de la impedancia}{figure.caption.6}% 5
+\BOOKMARK [1][-]{table.caption.12}{Magnitud de la se\361al de salida y factor de amplificaci\363n requerido}{figure.caption.6}% 6
+\BOOKMARK [2][-]{figure.caption.14}{Algunas Observaciones al Respecto}{table.caption.12}% 7
+\BOOKMARK [0][-]{figure.caption.14}{Caracterizaci\363n de los componentes}{}% 8
+\BOOKMARK [1][-]{section*.15}{QS5K2}{figure.caption.14}% 9
+\BOOKMARK [1][-]{table.caption.18}{BCV61}{figure.caption.14}% 10
+\BOOKMARK [2][-]{section*.19}{Espejo amplificador diferencial BJT con carga resistiva}{table.caption.18}% 11
+\BOOKMARK [2][-]{figure.caption.21}{Espejo amplificador diferencial MOSFET con carga resistiva}{table.caption.18}% 12
+\BOOKMARK [2][-]{figure.caption.23}{Espejo seguidor por emisor}{table.caption.18}% 13
+\BOOKMARK [0][-]{figure.caption.25}{Dise\361o del electromi\363grafo}{}% 14
+\BOOKMARK [1][-]{section*.26}{Amplificador de instrumentaci\363n}{figure.caption.25}% 15
+\BOOKMARK [2][-]{figure.caption.34}{Seguidor por emisor}{figure.caption.25}% 16
+\BOOKMARK [2][-]{figure.caption.34}{Amplificador diferencial BJT}{figure.caption.25}% 17
+\BOOKMARK [1][-]{figure.caption.36}{Filtro Pasabanda}{figure.caption.25}% 18
+\BOOKMARK [1][-]{figure.caption.38}{Rectificador de Onda Completa de Precisi\363n}{figure.caption.25}% 19

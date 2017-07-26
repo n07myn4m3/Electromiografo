@@ -1,6 +1,9 @@
-Circuit: * D:\Documents\Github\Electromiografo\Design\dif_mosfet\simulacion.asc
+Circuit: * E:\Documents\Repositorios\Github\Electromiografo\Design\dif_mosfet\simulacion.asc
+
+WARNING: Node SALIDA is floating.
 
 WARNING: Less than two connections to node VIN2.  This node is used by V4.
+WARNING: Less than two connections to node SALIDA.  This node is used by C1.
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
 Starting Gmin stepping
 Gmin = 10
@@ -22,8 +25,8 @@ Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
 
-Date: Sun Jun 11 13:43:16 2017
-Total elapsed time: 0.090 seconds.
+Date: Tue Jul 25 19:39:44 2017
+Total elapsed time: 0.383 seconds.
 
 tnom = 27
 temp = 27
@@ -36,7 +39,6 @@ rejected = 0
 matrix size = 29
 fillins = 8
 solver = Normal
-Matrix Compiler1: 2.75 KB object code size  1.0/0.4/[0.3]
-Matrix Compiler2: off  [0.3]/0.4/0.6
-
+Matrix Compiler1: 2.75 KB object code size  0.9/0.6/[0.3]
+Matrix Compiler2: off  [0.3]/0.6/0.6
 

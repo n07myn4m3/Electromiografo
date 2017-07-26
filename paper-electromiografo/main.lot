@@ -2,5 +2,10 @@
 \select@language {spanish}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {\relax 1}{\ignorespaces Recomendaciones para los rangos de impedancia electrodo/piel \cite {konrad2005abc}\relax }}{\es@scroman {ix}}{table.caption.13}
-\contentsline {table}{\numberline {\relax 2}{\ignorespaces My caption\relax }}{\es@scroman {x}}{table.caption.14}
+\contentsline {table}{\numberline {\relax 2.1}{\ignorespaces Recomendaciones para los rangos de impedancia electrodo/piel \cite {konrad2005abc}\relax }}{11}{table.caption.11}
+\contentsline {table}{\numberline {\relax 2.2}{\ignorespaces My caption\relax }}{12}{table.caption.12}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {\relax 3.1}{\ignorespaces Corrientes obtenidas para el amplificador diferencial BJT con carga resistiva\relax }}{18}{table.caption.20}
+\contentsline {table}{\numberline {\relax 3.2}{\ignorespaces Corrientes obtenidas para el amplificador diferencial MOSFET con carga resistiva\relax }}{19}{table.caption.22}
+\contentsline {table}{\numberline {\relax 3.3}{\ignorespaces Corrientes obtenidas para el seguidor por emisor\relax }}{21}{table.caption.24}
+\addvspace {10\p@ }

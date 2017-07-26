@@ -17,6 +17,30 @@
 \endgroup
 
 \sortlist[entry]{nty/global/}
+  \entry{kamen2010essentialselectromyography}{book}{}
+    \name{author}{1}{}{%
+      {{hash=GGKDA}{%
+         family={Gabriel},
+         familyi={G\bibinitperiod},
+         given={Gary Kamen; David\bibnamedelima A},
+         giveni={G\bibinitperiod\bibinitdelim K\bibinitperiod
+  D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Human Kinetics}%
+    }
+    \strng{namehash}{GGKDA1}
+    \strng{fullhash}{GGKDA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+  \field{isbn}{978-0-7360-6712-6,0-7360-6712-4,978-0-7360-8550-2,0-7360-8550-5}
+    \field{title}{Essentials of electromyography}
+    \field{year}{2010}
+  \endentry
+
   \entry{iskin2015}{misc}{}
     \name{author}{1}{}{%
       {{hash=i}{%
@@ -37,6 +61,40 @@
     \verb pg
     \endverb
     \field{year}{2015}
+  \endentry
+
+  \entry{kitchin2006designer}{book}{}
+    \name{author}{2}{}{%
+      {{hash=KC}{%
+         family={Kitchin},
+         familyi={K\bibinitperiod},
+         given={Charles},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=CL}{%
+         family={Counts},
+         familyi={C\bibinitperiod},
+         given={Lew},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Analog Devices}%
+    }
+    \strng{namehash}{KCCL1}
+    \strng{fullhash}{KCCL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{edition}{3}
+    \field{note}{[Online; recuperado Febrero 18, 2007]}
+    \field{title}{A designer's guide to instrumentation amplifiers}
+    \verb{url}
+    \verb http://www.analog.com/media/en/training-seminars/design-handbooks/des
+    \verb igners-guide-instrument-amps-complete.pdf
+    \endverb
+    \field{year}{2006}
   \endentry
 
   \entry{konrad2005abc}{article}{}
